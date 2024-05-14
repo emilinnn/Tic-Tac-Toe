@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a simple Tic-Tac-Toe game implemented in C++. The game allows two players to play against each other or a single player to play against an AI opponent.
+[![Watch the video](http://img.youtube.com/vi/skGFm4NJmGQ/0.jpg)](http://www.youtube.com/watch?v=skGFm4NJmGQ)
 
 ## Features
 - **3x3 game board:** The game board is represented using a 2D array and displayed to the user after each move with enhanced visuals.
